@@ -1,0 +1,15 @@
+{
+    "Programs": {
+		"Example": [
+            "Program Files\\Example\\Example.exe",
+            "example",
+            "example.exe",
+            "installation_arguments"
+        ]
+    },
+    "Software Stacks": {
+        "Defaults": [ 
+            "Example"
+        ]
+    }
+}

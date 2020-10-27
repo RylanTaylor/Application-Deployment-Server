@@ -1,0 +1,32 @@
+{
+  "name": "application-deployment-server",
+  "version": "0.2.0",
+  "description": "Deploy and install applications in a Windows environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test is available for this package\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RylanTaylor/Application-Deployment-Server.git"
+  },
+  "keywords": [
+    "install",
+    "software",
+    "deploy",
+    "windows",
+    "application"
+  ],
+  "author": "Rylan Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RylanTaylor/Application-Deployment-Server/issues"
+  },
+  "homepage": "https://github.com/RylanTaylor/Application-Deployment-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
